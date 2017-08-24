@@ -1,6 +1,14 @@
 #!/bin/bash
 
 
+# Script name: apachemod.sh
+#
+# Author: P-C Markovski
+# Date (Git init repo): 2017-08-24
+# Purpose: Modularize and automate Apache operations.
+
+
+
 	# Function to enable a module.
 
 function enable_apache_module()
